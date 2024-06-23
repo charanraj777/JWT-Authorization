@@ -10,7 +10,7 @@ This project implements JSON Web Token (JWT) based authorization for a web appli
 - JWT generation upon successful login
 - Secure API endpoints using JWT middleware
 - Token verification and expiration handling
-- Role-based access control (optional)
+- Role-based access control 
 - Detailed logging for authentication and authorization events
 
 ## Technologies Used
@@ -20,6 +20,7 @@ This project implements JSON Web Token (JWT) based authorization for a web appli
 - JSON Web Token (JWT)
 - MongoDB (or any other database)
 - bcrypt for password hashing
+
   
 
 ## Prerequisites
